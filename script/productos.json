@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Torta Rogel Tradicional",
+    "price": 18500.00,
+    "category": "Tortas Enteras",
+    "description": "Capas finas de masa crocante, dulce de leche repostero y merengue italiano.",
+    "image": "https://unsplash.com"
+  },
+  {
+    "id": 2,
+    "title": "Lemon Pie",
+    "price": 14200.00,
+    "category": "Tortas Enteras",
+    "description": "Base de masa sablee, crema de limón suave y una montaña de merengue italiano dorado.",
+    "image": "https://unsplash.com"
+  },
+  {
+    "id": 3,
+    "title": "Box de 6 Cupcakes Vainilla",
+    "price": 8200.00,
+    "category": "Porciones y Boxes",
+    "description": "Muffins de vainilla rellenos de frutos rojos con frosting de crema de queso.",
+    "image": "https://unsplash.com"
+  }
+]
